@@ -1,0 +1,26 @@
+# Miguel Baeyens
+
+Principal Solution Architect at Qlik, based in Spain. I spend my weekends building AI integrations — mostly things I want to use myself.
+
+## What I build
+
+| Project | What it does |
+|---------|-------------|
+| [mira-core](https://github.com/mabaeyens/mira-core) | Local AI assistant — autonomous web search, RAG, streaming UI. Runs fully offline on macOS |
+| [qlik-cloud-admin-mcp](https://github.com/mabaeyens/qlik-cloud-admin-mcp) | MCP server connecting Claude Desktop to Qlik Cloud for admin operations via natural language |
+| [AnthropicExtension](https://github.com/mabaeyens/AnthropicExtension) | Qlik Sense visualization extension that analyses chart data using Claude |
+| [cm-llm-proxy](https://github.com/mabaeyens/cm-llm-proxy) | Local HTTPS proxy bridging Qlik Sense to the Anthropic API |
+| [RAG](https://github.com/mabaeyens/RAG) | PDF ingestion pipeline with ChromaDB, local embeddings, and CrossEncoder reranking |
+| [qlik-sse-anthropic](https://github.com/mabaeyens/qlik-sse-anthropic) | Qlik Server-Side Extension exposing an LLM function directly in Qlik expressions |
+
+## How I work
+
+Architecture and product decisions are mine. Code is written by **Claude Code** following my instructions and reviewed by me. I think of it the same way I think about working with a contractor: the spec matters more than the keystrokes.
+
+## Stack
+
+Python · Node.js · JavaScript · Ollama · ChromaDB · Qlik APIs · gRPC · MCP
+
+---
+
+[LinkedIn](https://linkedin.com/in/mabaeyens)
