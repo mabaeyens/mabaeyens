@@ -8,7 +8,6 @@ Principal Solution Architect at Qlik, based in Spain. I spend my weekends buildi
 |---------|-------------|
 | [mira-core](https://github.com/mabaeyens/mira-core) | Local AI assistant — autonomous web search, RAG, streaming UI. Runs fully offline on macOS |
 | [qlik-cloud-admin-mcp](https://github.com/mabaeyens/qlik-cloud-admin-mcp) | MCP server connecting Claude Desktop to Qlik Cloud for admin operations via natural language |
-| [AnthropicExtension](https://github.com/mabaeyens/AnthropicExtension) | Qlik Sense visualization extension that analyses chart data using Claude |
 | [cm-llm-proxy](https://github.com/mabaeyens/cm-llm-proxy) | Local HTTPS proxy bridging Qlik Sense to the Anthropic API |
 | [RAG](https://github.com/mabaeyens/RAG) | PDF ingestion pipeline with ChromaDB, local embeddings, and CrossEncoder reranking |
 | [qlik-sse-anthropic](https://github.com/mabaeyens/qlik-sse-anthropic) | Qlik Server-Side Extension exposing an LLM function directly in Qlik expressions |
