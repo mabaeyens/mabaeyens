@@ -1,4 +1,4 @@
-# Miguel Baeyens
+# Miguel Angel Baeyens
 
 Principal Solution Architect at Qlik, based in Spain. I spend my weekends building AI integrations — mostly things I want to use myself.
 
