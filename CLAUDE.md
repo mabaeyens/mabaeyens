@@ -23,7 +23,7 @@ Use `gh api` to add or update topics. Current public repos and their intended to
 | mira-apps | `swift`, `ios`, `macos`, `ollama`, `local-llm`, `mira` |
 | mira-web | `html`, `frontend`, `mira` |
 | qlik-cloud-admin-mcp | `mcp`, `qlik-cloud`, `python`, `claude-desktop`, `admin`, `governance` |
-| cm-llm-proxy | `anthropic`, `cors`, `https`, `nodejs`, `proxy`, `qlik` |
+| vera-apps | `swift`, `ios`, `macos`, `markdown`, `github`, `mira` |
 | qlik-sense-local-llm | `qlik-sense`, `local-llm`, `llm`, `rag`, `openai-compatible`, `architecture` |
 | RAG | `rag`, `chromadb`, `embeddings`, `llm`, `python`, `pdf`, `sentence-transformers` |
 | claude-skills | `claude-code`, `claude`, `anthropic`, `skills` |

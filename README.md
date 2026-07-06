@@ -10,7 +10,7 @@ Principal Solution Architect at Qlik, based in Spain. I spend my weekends buildi
 | [mira-apps](https://github.com/mabaeyens/mira-apps) | Native iOS and macOS companion apps for Mira, built in Swift |
 | [qlik-cloud-admin-mcp](https://github.com/mabaeyens/qlik-cloud-admin-mcp) | MCP server connecting Claude Desktop to Qlik Cloud for admin operations via natural language |
 | [qlik-sense-local-llm](https://github.com/mabaeyens/qlik-sense-local-llm) | Reference architectures for integrating local LLMs and Qlik Sense Enterprise on Windows |
-| [cm-llm-proxy](https://github.com/mabaeyens/cm-llm-proxy) | Local HTTPS proxy bridging Qlik Sense to the Anthropic API |
+| [vera-apps](https://github.com/mabaeyens/vera-apps) | Reading-first Markdown viewer and editor for iOS and macOS, with opt-in GitHub repo browsing and editing |
 | [RAG](https://github.com/mabaeyens/RAG) | PDF ingestion pipeline with ChromaDB, local embeddings, and CrossEncoder reranking |
 
 ## How I work
