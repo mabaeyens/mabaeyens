@@ -19,11 +19,13 @@ Use `gh api` to add or update topics. Current public repos and their intended to
 
 | Repo | Topics |
 |------|--------|
+| mlx-conversions | `apple-silicon`, `huggingface`, `mlx`, `quantization`, `mlx-community` |
 | mira-core | `fastapi`, `local-llm`, `ollama`, `python`, `rag`, `web-search`, `qwen3`, `omlx`, `gemma` |
 | mira-apps | `swift`, `ios`, `macos`, `ollama`, `local-llm`, `mira` |
 | mira-web | `html`, `frontend`, `mira` |
 | qlik-cloud-admin-mcp | `mcp`, `qlik-cloud`, `python`, `claude-desktop`, `admin`, `governance` |
 | vera-apps | `developer-tools`, `github`, `icloud`, `ios`, `ipados`, `macos`, `markdown`, `markdown-editor`, `mira`, `open-source`, `swift`, `swiftui` |
 | qlik-sense-local-llm | `qlik-sense`, `local-llm`, `llm`, `rag`, `openai-compatible`, `architecture` |
+| cm-llm-proxy | `anthropic`, `cors`, `https`, `nodejs`, `proxy`, `qlik` |
 | RAG | `rag`, `chromadb`, `embeddings`, `llm`, `python`, `pdf`, `sentence-transformers` |
 | claude-skills | `claude-code`, `claude`, `anthropic`, `skills` |
