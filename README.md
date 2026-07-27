@@ -13,7 +13,6 @@ Principal Solution Architect at Qlik, based in Spain. I spend my weekends buildi
 | [claude-skills](https://github.com/mabaeyens/claude-skills) | Custom Claude Code skills for Mira and other projects |
 | [qlik-cloud-admin-mcp](https://github.com/mabaeyens/qlik-cloud-admin-mcp) | MCP server connecting Claude Desktop to Qlik Cloud for admin operations via natural language |
 | [qlik-sense-local-llm](https://github.com/mabaeyens/qlik-sense-local-llm) | Reference architectures for integrating local LLMs and Qlik Sense Enterprise on Windows |
-| [cm-llm-proxy](https://github.com/mabaeyens/cm-llm-proxy) | Local HTTPS proxy that forwards Anthropic/Ollama requests from Qlik Sense, bypassing browser CORS restrictions |
 | [RAG](https://github.com/mabaeyens/RAG) | PDF ingestion pipeline with ChromaDB, local embeddings, and CrossEncoder reranking |
 
 ## How I work
