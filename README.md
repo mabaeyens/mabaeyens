@@ -5,15 +5,16 @@ Principal Solution Architect at Qlik, based in Spain. I spend my weekends buildi
 ## What I build
 
 | Project | What it does |
-|---------|-------------|
-| [mlx-conversions](https://github.com/mabaeyens/mlx-conversions) | Quantizes HuggingFace models to MLX format and publishes them to mlx-community, with an end-to-end conversion/verify/upload pipeline |
-| [mira-core](https://github.com/mabaeyens/mira-core) | Local AI assistant — autonomous web search, RAG, streaming UI. Runs fully offline on macOS |
-| [vera-apps](https://github.com/mabaeyens/vera-apps) | Native iOS and macOS app for browsing, editing, and committing any file on GitHub & iCloud |
-| [mira-apps](https://github.com/mabaeyens/mira-apps) | Native iOS and macOS companion apps for Mira, built in Swift |
-| [claude-skills](https://github.com/mabaeyens/claude-skills) | Custom Claude Code skills for Mira and other projects |
-| [qlik-cloud-admin-mcp](https://github.com/mabaeyens/qlik-cloud-admin-mcp) | MCP server connecting Claude Desktop to Qlik Cloud for admin operations via natural language |
-| [qlik-sense-local-llm](https://github.com/mabaeyens/qlik-sense-local-llm) | Reference architectures for integrating local LLMs and Qlik Sense Enterprise on Windows |
-| [RAG](https://github.com/mabaeyens/RAG) | PDF ingestion pipeline with ChromaDB, local embeddings, and CrossEncoder reranking |
+|:--------------------------|:-------------|
+| [mira&#8209;core](https://github.com/mabaeyens/mira-core) | Local AI assistant. Autonomous web search, RAG, and streaming chat, running fully offline on macOS.<br>Ships mira-mlx, its own MLX inference server, with omlx / mlx-lm / vllm-mlx as alternative backends. |
+| [mira&#8209;apps](https://github.com/mabaeyens/mira-apps) | Native iOS and macOS companion apps for Mira, built in SwiftUI.<br>Pair with the Mac over Bonjour or Tailscale for the same local chat on the go. |
+| [aura&#8209;apps](https://github.com/mabaeyens/aura-apps) | Personal weather app for Spain across iPhone, iPad, Mac and Apple Watch, powered by AEMET OpenData.<br>Home-screen and Lock Screen widgets, watch complications, and CAP warnings, all from one shared Swift package. |
+| [vera&#8209;apps](https://github.com/mabaeyens/vera-apps) | Native iOS and macOS app for browsing, editing, and committing any file on GitHub and iCloud. |
+| [qlik&#8209;sense&#8209;local&#8209;llm](https://github.com/mabaeyens/qlik-sense-local-llm) | Reference architectures for integrating local LLMs with Qlik Sense Enterprise on Windows. |
+| [mlx&#8209;conversions](https://github.com/mabaeyens/mlx-conversions) | Quantizes HuggingFace models to MLX and publishes them to mlx-community.<br>End-to-end convert, verify, and upload pipeline. |
+| [claude&#8209;skills](https://github.com/mabaeyens/claude-skills) | Custom Claude Code skills for Mira, Vera, and other projects. |
+| [qlik&#8209;cloud&#8209;admin&#8209;mcp](https://github.com/mabaeyens/qlik-cloud-admin-mcp) | MCP server connecting Claude Desktop to Qlik Cloud for admin operations in natural language. |
+| [RAG](https://github.com/mabaeyens/RAG) | PDF ingestion pipeline with ChromaDB, local embeddings, and CrossEncoder reranking. |
 
 ## How I work
 
@@ -21,5 +22,5 @@ Architecture and product decisions are mine. Code is written by **Claude Code** 
 
 ## Stack
 
-Python · Swift · Node.js · JavaScript · MLX · Ollama · ChromaDB · Qlik APIs · gRPC · MCP
+Python · Swift · SwiftUI · MLX · FastAPI · ChromaDB · Node.js · Qlik APIs · gRPC · MCP
 
