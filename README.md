@@ -25,3 +25,7 @@ Architecture and product decisions are mine. Code is written by **Claude Code** 
 
 Python · Swift · SwiftUI · MLX · FastAPI · ChromaDB · Node.js · Qlik APIs · gRPC · MCP
 
+## Connect
+
+[askmira.es](https://askmira.es) · [LinkedIn](https://linkedin.com/in/mabaeyens)
+
